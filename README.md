@@ -44,3 +44,4 @@ Checked and works with Chrome, Opera, Mozila, Edge, IE11, IE10, IE9.
 
 - Structure!
 - Have fun!
+- Hosted DEMO would give some extra points
